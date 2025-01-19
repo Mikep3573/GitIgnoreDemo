@@ -1,2 +1,2 @@
-user.log  # Ignores user.log file
-users/    # Ignores everything in users directory
+user.log
+users/
